@@ -1,5 +1,4 @@
 # OSS_Practic
 
-수정 완
-Changed in Local PC
-Second change no add
+OSS 수업에서 배운 내용을 실습하는 repository
+
