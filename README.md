@@ -1,8 +1,3 @@
 # OSS_Practic
 
-faslfsalfjsaldfkjlskjflksjfdlajkslf'
-flaskjflas;jflsjdfkl
-fsadlfjaslfjlsakdf
-slkfjasjflkasjfasd
-flasjfkldsjfklsjfjslf
-e
+수정 완
